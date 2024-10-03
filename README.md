@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrPalace14
-I'm a computer engineering student
-- 👀 I’m interested in data analysis and data mining 
-- 🌱 I’m currently learning python,SQL,Django and JavaScript 
-- 💞️ I’m looking to collaborate on any open source project and any data analysis project 
+I'm a junior computer engineeer
+- 👀 I’m interested in Business analysis, project management and SAP architecture 
+- 🌱 I’m currently learning laravel,SQL,bootstrap and Jira 
+- 💞️ I’m looking to collaborate on any open source project and any businesss analysis project 
 - 📫 How to reach me njieenowmartah@gmail.com
 
 <!---
